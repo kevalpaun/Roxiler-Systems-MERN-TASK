@@ -6,7 +6,7 @@ const months = [
     value: 1,
   },
   {
-    label: "Fabruary",
+    label: "February",
     value: 2,
   },
   {
